@@ -1,0 +1,11 @@
+﻿  UnitTest1.6.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\lab 1.6\Rational.cpp(46,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\lab 1.6\Rational.cpp(47,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\lab 1.6\Rational.cpp(53,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\lab 1.6\Rational.cpp(54,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\lab 1.6\Rational.cpp(60,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\lab 1.6\Rational.cpp(61,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\lab 1.6\Rational.cpp(76,5): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\UnitTest1.6\UnitTest1.6.cpp(19,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\Debug\UnitTest1.6.lib и объект C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\Debug\UnitTest1.6.exp
+  UnitTest1.6.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.6\lab 1.6\Debug\UnitTest1.6.dll
